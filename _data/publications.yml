@@ -1,9 +1,9 @@
 featured:
-- {name: 'Libin Liang, Ye Tian, Ge Cheng. Deep Maxout Network Gaussian Process. arXiv preprint arXiv:2208.04468, 2022', url: 'https://arxiv.org/pdf/2208.04468.pdf'}
+- {name: 'Libin Liang, Ye Tian, Ge Cheng. Deep Maxout Network Gaussian Process. arXiv preprint arXiv:2208.04468, 2022', url: 'https://arxiv.org/abs/2208.04468'}
 - {name: 'Ye Tian. Projects in progress.', url: '/publications/Semi-supervised Classification.pdf'}
 - {name: 'Ye Tian. Statistical Analysis of the United States’ Summer Temperatures. Master’s Thesis.', url: '/publications/Masters Thesis.pdf'}
 
 index:
-- {name: 'Libin Liang, Ye Tian, Ge Cheng. Deep Maxout Network Gaussian Process. arXiv preprint arXiv:2208.04468, 2022', url: 'https://arxiv.org/pdf/2208.04468.pdf'}
+- {name: 'Libin Liang, Ye Tian, Ge Cheng. Deep Maxout Network Gaussian Process. arXiv preprint arXiv:2208.04468, 2022', url: 'https://arxiv.org/abs/2208.04468'}
 - {name: 'Ye Tian. Projects in progress.', url: '/publications/Semi-supervised Classification.pdf'}
 - {name: 'Ye Tian. Statistical Analysis of the United States’ Summer Temperatures. Master’s Thesis.', url: '/publications/Masters Thesis.pdf'}
