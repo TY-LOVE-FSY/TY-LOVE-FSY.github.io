@@ -3,6 +3,5 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+I am a forth year Ph.d student in the Department of Statistics, at Rutgers University. My current research includes semi-supervised Learning, transfer learning and infinite-width deep neural nets. I am also interested in non-convex optimization.   
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
